@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="q4viJ-VpSkw9FCj511Ot">
+    <mxGraphModel dx="1456" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;strokeWidth=2;" value="BitForge — Página Inicial" vertex="1">
+          <mxGeometry height="800" width="375" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-2" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;" value="" vertex="1">
+          <mxGeometry height="55" width="375" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-3" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;fontStyle=1;fontSize=20;align=left;verticalAlign=middle;" value="BitForge" vertex="1">
+          <mxGeometry height="35" width="150" x="18" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-4" parent="g39JqQqh0oRKqH_cQGuN-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=18;" value="🛒" vertex="1">
+          <mxGeometry height="30" width="30" x="285" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-5" parent="g39JqQqh0oRKqH_cQGuN-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=18;" value="☰" vertex="1">
+          <mxGeometry height="30" width="30" x="330" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-6" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.forms.input;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;align=left;spacingLeft=12;" value="Pesquisar produtos                         🔍" vertex="1">
+          <mxGeometry height="38" width="339" x="18" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-7" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="112" width="339" x="18" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-8" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.graphics.image;whiteSpace=wrap;html=1;fillColor=#dddddd;strokeColor=#777777;fontSize=13;" value="Imagem" vertex="1">
+          <mxGeometry height="92" width="125" x="28" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-9" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;fontStyle=1;fontSize=16;align=left;" value="Monta o teu PC" vertex="1">
+          <mxGeometry height="28" width="160" x="170" y="138" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-10" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.buttons.button;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#333333;fontColor=#ffffff;" value="Ver produtos" vertex="1">
+          <mxGeometry height="30" width="125" x="170" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-11" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;fontStyle=1;fontSize=16;align=left;" value="Categorias" vertex="1">
+          <mxGeometry height="25" width="180" x="18" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-12" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.general.icon;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#777777;fontSize=10;" value="⚙&#xa;Processadores" vertex="1">
+          <mxGeometry height="58" width="76" x="18" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-13" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.general.icon;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#777777;fontSize=10;" value="▣&#xa;Placas gráficas" vertex="1">
+          <mxGeometry height="58" width="76" x="103" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-14" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.general.icon;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#777777;fontSize=10;" value="▤&#xa;Memória RAM" vertex="1">
+          <mxGeometry height="58" width="76" x="188" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-15" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.general.icon;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#777777;fontSize=10;" value="⌨&#xa;Periféricos" vertex="1">
+          <mxGeometry height="58" width="76" x="273" y="278" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-16" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;fontStyle=1;fontSize=16;align=left;" value="Produtos em destaque" vertex="1">
+          <mxGeometry height="25" width="250" x="18" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-17" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;" value="" vertex="1">
+          <mxGeometry height="78" width="339" x="18" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-18" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.graphics.image;whiteSpace=wrap;html=1;fillColor=#dddddd;strokeColor=#777777;fontSize=11;" value="Imagem" vertex="1">
+          <mxGeometry height="60" width="78" x="28" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-19" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;align=left;fontSize=12;" value="Processador ForgeCore&#xa;129,99 €" vertex="1">
+          <mxGeometry height="42" width="135" x="120" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-20" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.buttons.button;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#333333;fontColor=#ffffff;fontSize=11;" value="Comprar" vertex="1">
+          <mxGeometry height="28" width="68" x="275" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-21" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;" value="" vertex="1">
+          <mxGeometry height="78" width="339" x="18" y="468" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-22" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.graphics.image;whiteSpace=wrap;html=1;fillColor=#dddddd;strokeColor=#777777;fontSize=11;" value="Imagem" vertex="1">
+          <mxGeometry height="60" width="78" x="28" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-23" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;align=left;fontSize=12;" value="Placa gráfica BitRender&#xa;349,90 €" vertex="1">
+          <mxGeometry height="42" width="135" x="120" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-24" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.buttons.button;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#333333;fontColor=#ffffff;fontSize=11;" value="Comprar" vertex="1">
+          <mxGeometry height="28" width="68" x="275" y="491" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-25" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;" value="" vertex="1">
+          <mxGeometry height="78" width="339" x="18" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-26" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.graphics.image;whiteSpace=wrap;html=1;fillColor=#dddddd;strokeColor=#777777;fontSize=11;" value="Imagem" vertex="1">
+          <mxGeometry height="60" width="78" x="28" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-27" parent="g39JqQqh0oRKqH_cQGuN-1" style="text;html=1;align=left;fontSize=12;" value="Memória RAM 16 GB&#xa;79,50 €" vertex="1">
+          <mxGeometry height="42" width="135" x="120" y="567" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-28" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.buttons.button;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#333333;fontColor=#ffffff;fontSize=11;" value="Comprar" vertex="1">
+          <mxGeometry height="28" width="68" x="275" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-29" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dddddd;strokeColor=#666666;fontStyle=1;fontSize=15;" value="Promoções da semana" vertex="1">
+          <mxGeometry height="42" width="339" x="18" y="644" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-30" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.forms.input;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#777777;align=left;spacingLeft=10;fontSize=11;" value="O teu endereço de email" vertex="1">
+          <mxGeometry height="34" width="210" x="18" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-31" parent="g39JqQqh0oRKqH_cQGuN-1" style="shape=mxgraph.mockup.buttons.button;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#333333;fontColor=#ffffff;fontSize=11;" value="Subscrever" vertex="1">
+          <mxGeometry height="34" width="119" x="238" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="g39JqQqh0oRKqH_cQGuN-32" parent="g39JqQqh0oRKqH_cQGuN-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#888888;fontSize=11;align=center;verticalAlign=middle;" value="Sobre nós   |   Contactos&#xa;Redes sociais:  ◯  ◯  ◯" vertex="1">
+          <mxGeometry height="53" width="375" y="747" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
